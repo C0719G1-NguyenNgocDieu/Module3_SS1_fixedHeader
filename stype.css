@@ -1,0 +1,14 @@
+.navbar{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: black;
+    height: 30px;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    margin-top: 50px;
+}
